@@ -4,6 +4,7 @@ arkizenty's assets
 <a href="https://arkizenty.github.io/assets/arki.py/">assets/arki.py</a>
 <a href="https://arkizenty.github.io/assets/finfetch/">assets/finfetch</a>
 <a href="https://arkizenty.github.io/assets/CREATIVE_SNAKE/">assets/CREATIVE_SNAKE</a>
+<a href="https://arkizenty.github.io/assets/ferrisfetch/">assets/ferrisfetch</a>
 </pre>
 
 <meta content="arkizenty's assets" property="og:title">
