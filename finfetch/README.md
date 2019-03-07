@@ -4,6 +4,7 @@
 <a href="https://raw.githubusercontent.com/arkizenty/assets/master/finfetch/screenshot_2.0.png">assets/finfetch/screenshot_2.0.png</a>
 <a href="https://raw.githubusercontent.com/arkizenty/assets/master/finfetch/screenshot_windows_2.0.png">assets/finfetch/screenshot_windows_2.0.png</a>
 <a href="https://raw.githubusercontent.com/arkizenty/assets/master/finfetch/finfetch.png">assets/finfetch/finfetch.png</a>
+<a href="https://raw.githubusercontent.com/arkizenty/assets/master/finfetch/finfetch_2.png">assets/finfetch/finfetch_2.png</a>
 </pre>
 
 <meta content="arkizenty's assets" property="og:title">
